@@ -3,8 +3,7 @@
 
 ![Header Image](img/logo.png)
 
-[![Download Now](https://img.shields.io/badge/Download-Game-green?style=for-the-badge&logo=github)](link_download_langsung)
-[![GitHub release](https://img.shields.io/github/v/release/username/nama-repo?style=for-the-badge)](https://github.com/username/nama-repo/releases)
+[![Download Now](https://img.shields.io/badge/Download-Game-green?style=for-the-badge&logo=github)](https://github.com/Vall-Here/NVGAMES-bounce-devil/releases/download/Release/Bounce.Devil.1.0.0.apk)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 > Version Beta 1.0.0
